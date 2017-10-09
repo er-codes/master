@@ -1,2 +1,2 @@
 # master
-belajar coding pertama kali
+Repository Pertama Belajar Coding ER-Codes
