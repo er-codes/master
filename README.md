@@ -1,2 +1,2 @@
 # master
-belajar coding pertama
+belajar coding pertama kali
